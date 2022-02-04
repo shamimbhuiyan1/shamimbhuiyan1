@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shamimbhuiyan1
+- 👋 Hi, I’m Shamim Bhuiyan.
 - 👀 I’m interested on Expolre new things.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate with others developer.
@@ -22,13 +22,19 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br/>
-### Languages & Libraries:
+
+
+ Languages & Libraries:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 
 <br />
+
+
+📈 My github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shamimbhuiyan1&show_icons=true&theme=gotham" alt="shamim" />
 
 <!---
 shamimbhuiyan1/shamimbhuiyan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
