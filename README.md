@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shamim Bhuiyan.
-- 👀 I’m interested on Expolre new things.
+- 👀 I’m interested to Expolre new things.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate with others developer.
 - 📫 How to reach me ...
@@ -28,7 +28,7 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/netlify/netlify.png"></code>
 <br />
 
 📊 **This week I spent my time on:**
